@@ -1,0 +1,27 @@
+.box {
+  margin-top: 10px;
+  margin-left: 30px;
+  background: blanchedalmond;
+  height: 280px;
+  width: 200px;
+  border: 1.5px solid black;
+}
+
+.display {
+  background-color: white;
+  margin: 10px;
+  border: 3px solid black;
+  height: 50px;
+}
+.button {
+  width: 50px;
+  margin: 6.5px;
+  font-weight: lighter;
+  border-radius: 10px;
+  font-size: medium;
+}
+
+.remove {
+  margin-left: 155px;
+  margin-top: 3px;
+}
